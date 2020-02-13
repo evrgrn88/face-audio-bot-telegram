@@ -2,4 +2,5 @@
 *.jpg
 *.ogg
 *.wav
-sample.json
+*.json
+*.exe
